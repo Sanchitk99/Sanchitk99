@@ -9,10 +9,10 @@
 
 ##  About Me
 
-I'm **Sanchit**, a Computer Science student who’s passionate about turning ideas into working, impactful solutions.  
-I believe in building real-world projects to learn deeply, solve actual problems, and refine both technical and creative skills.
-Live Portfolio - 
-https://sanchitk99.github.io/portfolio/
+I’m Sanchit, a Computer Science student with a strong interest in software development and system design.
+I enjoy exploring technologies through hands-on projects that improve both my technical depth and implementation skills.
+Live Portfolio - https://sanchitk99.github.io/portfolio/
+
 ---
 
 <h2> My Tech Stack</h2>
@@ -133,7 +133,11 @@ https://sanchitk99.github.io/portfolio/
 &nbsp;&nbsp;
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanchitk99&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=sanchitk99&theme=cobalt&hide_border=false)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitk99&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
