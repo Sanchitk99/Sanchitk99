@@ -85,16 +85,24 @@ Live Portfolio - https://sanchitk99.github.io/portfolio/
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="26"/>
+
 </p>
 
 ### Core Development
 <p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="26"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=flat&logo=codeforces&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Competitive%20Programming-1E90FF?style=flat&logo=leetcode&logoColor=white" height="26"/>
 </p>
 
 ---
+
+
+
 
 ##  Projects
 
