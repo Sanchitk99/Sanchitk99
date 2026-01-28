@@ -93,6 +93,7 @@ Live Portfolio - https://sanchitk99.github.io/portfolio/
 
 ### Core Development
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="26"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=flat&logo=codeforces&logoColor=white" height="26"/>
