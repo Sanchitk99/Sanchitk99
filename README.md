@@ -52,18 +52,26 @@ Live Portfolio - https://sanchitk99.github.io/portfolio/
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="26"/>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="26"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" height="26"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="26"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="26"/>
-    </td>
-  </tr>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" height="26"/>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" height="26"/>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="26"/>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="26"/>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="26"/>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="26"/>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="26"/>
+</td>
 </table>
 
 ### 🛠️ Tools & Frameworks
@@ -143,7 +151,6 @@ Live Portfolio - https://sanchitk99.github.io/portfolio/
 
 </div>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
