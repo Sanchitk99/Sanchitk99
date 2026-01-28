@@ -11,6 +11,7 @@
 
 I’m Sanchit, a Computer Science student with a strong interest in software development and system design.
 I enjoy exploring technologies through hands-on projects that improve both my technical depth and implementation skills.
+
 Live Portfolio - https://sanchitk99.github.io/portfolio/
 
 ---
