@@ -1,7 +1,7 @@
 <h1 align="center">Sanchit Kukreja</h1>
 
 <p align="center">
-  Computer Science Student · DSA with Java · Web & Backend Development · Tech Researcher · ML Enthusiast
+ · Computer Science Student · DSA with Java ·  ML Enthusiast · Web & Backend Developer · Tech Researcher · 
 </p>
 
 ---
