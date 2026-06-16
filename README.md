@@ -101,13 +101,6 @@ https://sanchitk99.github.io/portfolio/
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sanchitk99&theme=cobalt"/>
-  <br/>
-</p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
